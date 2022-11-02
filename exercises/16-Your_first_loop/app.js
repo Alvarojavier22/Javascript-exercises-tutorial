@@ -1,9 +1,9 @@
 /* Done - check tests and clear for student use */
 
-function startCounting()
+function startCounting(i)
 {
 	
-	for(let i = 0; i < 100; i++)
+	for(let i = 1; i <= 101; i++)
 	{
 		console.log(i);
 	}
